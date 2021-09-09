@@ -1,6 +1,6 @@
 ## Hey you! My name is Gabriele Almeida 👋🏽
 
-### I'm a Computer Scientist and Software Developer
+### I'm a Computer Scientist and Software Developer 👩🏽‍💻
 
 <div>
   <a href="https://github.com/GabrieleAlmeida">
@@ -25,7 +25,7 @@
   
   ---
   
-### Contact with me 📝
+### Contact with me ✉
   
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/noogabe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
