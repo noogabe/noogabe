@@ -29,7 +29,8 @@
   
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/noogabe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/noogabe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/noogabe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://facebook.com/noogabe" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
   <a href = "https://open.spotify.com/user/12158162993" target="_blank"><img src="https://img.shields.io/badge/-Spotify-%23333?style=for-the-badge&logo=spotify&logoColor=green" target="_blank"></a>
 </div>
   
@@ -39,7 +40,7 @@
   
  ---
   
- ### Visitors 🕵️
+ ### Visitors since 09/09/2021 🕵️
  
 <p><img alingn="center" src="https://profile-counter.glitch.me/GabrieleAlmeida/count.svg" /></p>
   
