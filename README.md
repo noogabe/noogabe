@@ -37,6 +37,12 @@
   
  ![Snake animation](https://github.com/GabrieleAlmeida/GabrieleAlmeida/blob/output/github-contribution-grid-snake.svg)
   
+ ---
+  
+ ### Visitors 🕵️
+ 
+<p><img alingn="center" src="https://profile-counter.glitch.me/GabrieleAlmeida/count.svg" /></p>
+  
 
 
 
