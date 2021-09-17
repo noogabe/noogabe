@@ -1,4 +1,4 @@
-## Hey you! My name is Gabriele Almeida 👋🏽
+## Hey you! My name is Gabriele Almeida <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ### I'm a Computer Scientist and Software Developer 👩🏽‍💻
 
