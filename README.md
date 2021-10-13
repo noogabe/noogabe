@@ -1,10 +1,10 @@
-<h1 align="left">
+<h3 align="left">
     <a>Hey you! My name is Gabriele Almeida <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></a>
-</h1> 
+</h3> 
 
-<h1 align="left">
+<h3 align="left">
     <a>I'm a Computer Scientist and Software Developer 👩🏽‍💻</a>
-</h1>
+</h3>
 
 <div>
   <a href="https://github.com/GabrieleAlmeida">
@@ -12,9 +12,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleAlmeida&layout=compact&langs_count=7&theme=radical"/>
 </div> <br />
   
-<h1 align="left">
+<h3 align="left">
     <a>Languages and Tools 🛠 </a>
-</h1>
+</h3>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabi-HTML" title="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,9 +29,9 @@
   
 
   
-<h1 align="left">
+<h3 align="left">
     <a>Contact with me ✉</a>
-</h1>
+</h3>
   
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/noogabe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
@@ -45,9 +45,9 @@
   
   
    
-<h1 align="left">
+<h3 align="left">
     <a>Visitors since 09/09/2021 🕵️</a>
-</h1>
+</h3>
   
 <p><img alingn="left" src="https://profile-counter.glitch.me/GabrieleAlmeida/count.svg" /></p>
   
