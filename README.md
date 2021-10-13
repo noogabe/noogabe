@@ -43,13 +43,7 @@
   
  ![Snake animation](https://github.com/GabrieleAlmeida/GabrieleAlmeida/blob/output/github-contribution-grid-snake.svg) <br />
   
-  
-   
-<h3 align="left">
-    <a>Visitors since 09/09/2021 🕵️</a>
-</h3>
-  
-<p><img alingn="left" src="https://profile-counter.glitch.me/GabrieleAlmeida/count.svg" /></p>
+
   
 
 
