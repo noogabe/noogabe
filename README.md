@@ -10,13 +10,15 @@
   <a href="https://github.com/GabrieleAlmeida">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrieleAlmeida&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleAlmeida&layout=compact&langs_count=7&theme=radical"/>
-</div> <br />
+  <img align="right" alt="Gabi-gif" width=15% src="https://github.com/GabrieleAlmeida/GabrieleAlmeida/blob/main/ezgif.com-gif-maker.gif">
+  <hr>
+</div><br />
   
 <h3 align="left">
     <a>Languages and Tools 🛠 </a>
 </h3>
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br />
   <img align="center" alt="Gabi-HTML" title="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabi-CSS" title="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabi-PHP" title="PHP" height="40" width="50" src="https://github.com/pedrollandim/hello-world/blob/master/images/php-original.svg">
@@ -24,10 +26,9 @@
   <img align="center" alt="Gabi-Java" title="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Gabi-Mysql" title="Mysql" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
   
-  <img align="right" alt="Gabi-gif" width=15% src="https://github.com/GabrieleAlmeida/GabrieleAlmeida/blob/main/ezgif.com-gif-maker.gif">
-</div> <br />
   
-
+</div><br />
+ 
   
 <h3 align="left">
     <a>Contact with me ✉</a>
