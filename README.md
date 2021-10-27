@@ -24,10 +24,8 @@
   <img align="center" alt="Gabi-Java" title="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> -
   <img align="center" alt="Gabi-Mysql" title="Mysql" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
   
-  <img align="right" alt="Gabi-gif" width=15% src="https://github.com/GabrieleAlmeida/GabrieleAlmeida/blob/main/ezgif.com-gif-maker.gif">
 </div><br />
  
- <hr>
 <h3 align="left">
     <a>Contact with me ✉</a>
 </h3>
@@ -39,8 +37,13 @@
   <a href = "https://open.spotify.com/user/12158162993" target="_blank"><img src="https://img.shields.io/badge/-Spotify-%23333?style=for-the-badge&logo=spotify&logoColor=green"></a>
 </div>
   
-  
- ![Snake animation](https://github.com/GabrieleAlmeida/GabrieleAlmeida/blob/output/github-contribution-grid-snake.svg) <br />
+![Snake animation](https://github.com/GabrieleAlmeida/GabrieleAlmeida/blob/output/github-contribution-grid-snake.svg)
+
+    
+![Profile View Counter](https://komarev.com/ghpvc/?username=GabrieleAlmeida)
+    
+<!-- <img align="right" alt="Gabi-gif" width=15% src="https://github.com/GabrieleAlmeida/GabrieleAlmeida/blob/main/ezgif.com-gif-maker.gif"> -->
+ 
   
 
   
