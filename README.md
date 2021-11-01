@@ -19,7 +19,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleAlmeida&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
- <img src="https://activity-graph.herokuapp.com/graph?username=GabrieleAlmeida&bg_color=141321&hide_border=true&color=fe428e&line=a9fef7&point=fe428e" width="85%"/>
+ <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=GabrieleAlmeida&bg_color=141321&hide_border=true&color=fe428e&line=a9fef7&point=fe428e"/>
     
 <br>
   
@@ -27,7 +27,7 @@
     <a>🛠&nbspTech Stack</a>
 </h3>
   
-<div style="display: inline_block"><br />
+<div style="display: inline_block">
   <img align="center" alt="Gabi-HTML" title="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img align="center" alt="Gabi-CSS" title="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Gabi-PHP" title="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
