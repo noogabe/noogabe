@@ -15,8 +15,8 @@
  
 <div style="display: inline_block">
   <a href="https://github.com/GabrieleAlmeida">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrieleAlmeida&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleAlmeida&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrieleAlmeida&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleAlmeida&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
  <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=GabrieleAlmeida&bg_color=141321&hide_border=true&color=fe428e&line=a9fef7&point=fe428e"/>
