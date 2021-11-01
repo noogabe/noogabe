@@ -5,6 +5,7 @@
  - 👩🏽‍💻 Computer Scientist and Junior Web Developer
  - 🔭 I'm currently working on [Locabox](https://locabox.com.br/)
 
+
 <br>
 
 <h3 align="left">
@@ -16,6 +17,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrieleAlmeida&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleAlmeida&layout=compact&langs_count=7&theme=radical"/>
 </div>
+ 
+ <img src="https://activity-graph.herokuapp.com/graph?username=GabrieleAlmeida&theme=radical&bg_color=20232a&hide_border=true" width="100%"/>
     
 <br>
   
@@ -50,16 +53,25 @@
   <a href = "https://open.spotify.com/user/12158162993" target="_blank"><img src="https://img.shields.io/badge/-Spotify-%23333?style=for-the-badge&logo=spotify&logoColor=green"></a>
 </div><br>
  
-
+<!--
 <h3 align="left">
-    <a>👩🏽‍💻&nbspMy Contributions</a>
+  <a>👩🏽‍💻&nbspMy Contributions</a>
 </h3>
 
-<p align="left"><img src="https://github.com/GabrieleAlmeida/GabrieleAlmeida/blob/output/github-contribution-grid-snake.svg" alt="Profile view counter"/></p>
-    
+<p align="left"><img src="https://github.com/GabrieleAlmeida/GabrieleAlmeida/blob/output/github-contribution-grid-snake.svg" alt="Profile view counter"/></p>-->
 
-    
-<!-- <img align="right" alt="Gabi-gif" width=15% src="https://github.com/GabrieleAlmeida/GabrieleAlmeida/blob/main/ezgif.com-gif-maker.gif"> -->
+
+<details align="left">
+<summary>👩🏽‍💻&nbspProjects I am currently working on</summary>
+
+<br>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrieleAlmeida&repo=mundojix)](https://github.com/GabrieleAlmeida/mundojix)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrieleAlmeida&repo=twitter_clone)](https://github.com/GabrieleAlmeida/twitter_clone)
+
+<br>
+</details>
+
  
   
 
