@@ -12,13 +12,13 @@
     <a>⚙️&nbspGithub Analytics</a>
 </h3>
  
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/GabrieleAlmeida">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrieleAlmeida&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleAlmeida&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
- <img src="https://activity-graph.herokuapp.com/graph?username=GabrieleAlmeida&bg_color=141321&hide_border=true&color=fe428e&line=a9fef7" width="100%"/>
+ <img src="https://activity-graph.herokuapp.com/graph?username=GabrieleAlmeida&bg_color=141321&hide_border=true&color=fe428e&line=a9fef7" width="80%"/>
     
 <br>
   
@@ -53,24 +53,12 @@
   <a href = "https://open.spotify.com/user/12158162993" target="_blank"><img src="https://img.shields.io/badge/-Spotify-%23333?style=for-the-badge&logo=spotify&logoColor=green"></a>
 </div><br>
  
-<!--
+ <!--
 <h3 align="left">
   <a>👩🏽‍💻&nbspMy Contributions</a>
 </h3>
 
 <p align="left"><img src="https://github.com/GabrieleAlmeida/GabrieleAlmeida/blob/output/github-contribution-grid-snake.svg" alt="Profile view counter"/></p>-->
-
-
-<details align="left">
-<summary>👩🏽‍💻&nbspProjects I am currently working on</summary>
-
-<br>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrieleAlmeida&repo=mundojix)](https://github.com/GabrieleAlmeida/mundojix)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GabrieleAlmeida&repo=twitter_clone)](https://github.com/GabrieleAlmeida/twitter_clone)
-
-<br>
-</details>
 
  
   
