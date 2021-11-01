@@ -1,19 +1,26 @@
-<h3 align="left">
-    <a>Hey you! My name is Gabriele Almeida <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></a>
-</h3> 
+<h1 align="left">Hey you<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Gabriele Almeida </h1>
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=GabrieleAlmeida&style=flat-square&color=blueviolet" alt="Profile view counter"/></p>
+
+ - 👩🏽‍💻 Computer Scientist and Junior Web Developer
+ - 🔭 I'm currently working on [Locabox](https://locabox.com.br/)
+
+
+  
 <h3 align="left">
-    <a>I'm a Computer Scientist and Software Developer 👩🏽‍💻</a>
+    <a>⚙️&nbspGithub Analytics</a>
 </h3>
-
+ 
 <div>
   <a href="https://github.com/GabrieleAlmeida">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrieleAlmeida&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleAlmeida&layout=compact&langs_count=7&theme=radical"/>
-</div><br />
+</div>
+    
+<br>
   
 <h3 align="left">
-    <a>Languages and Tools 🛠 </a>
+    <a>🛠&nbspLanguages and Tools</a>
 </h3>
   
 <div style="display: inline_block"><br />
@@ -27,7 +34,7 @@
 </div><br />
  
 <h3 align="left">
-    <a>Contact with me ✉</a>
+    <a>✉&nbspContact with me</a>
 </h3>
   
 <div style="display: inline_block">
@@ -37,10 +44,10 @@
   <a href = "https://open.spotify.com/user/12158162993" target="_blank"><img src="https://img.shields.io/badge/-Spotify-%23333?style=for-the-badge&logo=spotify&logoColor=green"></a>
 </div>
   
-![Snake animation](https://github.com/GabrieleAlmeida/GabrieleAlmeida/blob/output/github-contribution-grid-snake.svg)
 
+<p align="left"><img src="https://github.com/GabrieleAlmeida/GabrieleAlmeida/blob/output/github-contribution-grid-snake.svg" alt="Profile view counter"/></p>
     
-![Profile View Counter](https://komarev.com/ghpvc/?username=GabrieleAlmeida)
+
     
 <!-- <img align="right" alt="Gabi-gif" width=15% src="https://github.com/GabrieleAlmeida/GabrieleAlmeida/blob/main/ezgif.com-gif-maker.gif"> -->
  
