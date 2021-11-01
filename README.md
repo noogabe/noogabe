@@ -2,7 +2,8 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=GabrieleAlmeida&style=flat-square&color=blueviolet" alt="Profile view counter"/></p>
 
- - 👩🏽‍💻 Computer Scientist and Junior Web Developer
+ - 👩🏽‍💻 Junior Web Developer
+ - 📚 Computer Scientist graduated by [IFCE](https://ifce.edu.br/)
  - 🔭 I'm currently working on [Locabox](https://locabox.com.br/)
 
 
@@ -18,7 +19,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleAlmeida&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
- <img src="https://activity-graph.herokuapp.com/graph?username=GabrieleAlmeida&bg_color=141321&hide_border=true&color=fe428e&line=a9fef7" width="85%"/>
+ <img src="https://activity-graph.herokuapp.com/graph?username=GabrieleAlmeida&bg_color=141321&hide_border=true&color=fe428e&line=a9fef7&point=fe428e" width="85%"/>
     
 <br>
   
