@@ -18,7 +18,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleAlmeida&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
- <img src="https://activity-graph.herokuapp.com/graph?username=GabrieleAlmeida&bg_color=141321&hide_border=true&color=fe428e&line=a9fef7" width="90%"/>
+ <img src="https://activity-graph.herokuapp.com/graph?username=GabrieleAlmeida&bg_color=141321&hide_border=true&color=fe428e&line=a9fef7" width="85%"/>
     
 <br>
   
