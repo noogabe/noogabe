@@ -1,6 +1,8 @@
 <h1 align="left">Hey you<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Gabriele Almeida </h1>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=GabrieleAlmeida&style=flat-square&color=blueviolet" alt="Profile view counter"/></p>
+<a href="https://github.com/GabrieleAlmeida">
+    <p align="left"><img src="https://komarev.com/ghpvc/?username=GabrieleAlmeida&style=flat-square&color=blueviolet" alt="Profile view counter"/></p>
+</a>
 
  - 👩🏽‍💻 Junior Web Developer
  - 📚 Computer Scientist graduated by [IFCE](https://ifce.edu.br/)
@@ -16,12 +18,11 @@
  
 <div style="display: inline_block">
   <a href="https://github.com/GabrieleAlmeida">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrieleAlmeida&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleAlmeida&layout=compact&langs_count=7&theme=radical"/>
-</div>
- 
- <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=GabrieleAlmeida&bg_color=141321&hide_border=true&color=fe428e&line=a9fef7&point=fe428e"/>
-    
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrieleAlmeida&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleAlmeida&layout=compact&langs_count=7&theme=radical"/>
+    </div>
+     <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=GabrieleAlmeida&bg_color=141321&hide_border=true&color=fe428e&line=a9fef7&point=fe428e"/>
+  </a>
 <br>
   
 <h3 align="left">
@@ -29,18 +30,22 @@
 </h3>
   
 <div style="display: inline_block">
-  <img align="center" alt="Gabi-HTML" title="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img align="center" alt="Gabi-CSS" title="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Gabi-PHP" title="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img align="center" alt="Gabi-JS" title="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="Gabi-Java" title="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+ <a href="https://github.com/GabrieleAlmeida">
+  <img align="center" alt="Gabi-HTML" title="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+  <img align="center" alt="Gabi-CSS" title="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" alt="Gabi-PHP" title="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img align="center" alt="Gabi-JS" title="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img align="center" alt="Gabi-Java" title="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+ </a>
 </div>
  
  <div style="display: inline_block"><br>
-    <img align="center" alt="Gabi-Boostrap" title="Boostrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img align="center" alt="Gabi-Mysql" title="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
-    <img align="center" alt="Gabi-Xampp" title="Xampp" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-    <img align="center" alt="Gabi-VsCode" title="VsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <a href="https://github.com/GabrieleAlmeida">
+    <img align="center" alt="Gabi-Boostrap" title="Boostrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img align="center" alt="Gabi-Mysql" title="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
+    <img align="center" alt="Gabi-Xampp" title="Xampp" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
+    <img align="center" alt="Gabi-VsCode" title="VsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  </a>
  </div><br>
  
  
