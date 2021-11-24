@@ -7,7 +7,7 @@
  - 👩🏽‍💻 Junior Web Developer
  - 👩🏽‍🎓 Computer Scientist graduated by [IFCE](https://ifce.edu.br/)
  - 🔭 I'm currently working at [Locabox](https://locabox.com.br/)
- - 📚 I'm a web developer, but I'm also interested in mobile development. I'm currently learning the kotlin programming language
+ - 📚 I'm also interested in mobile development. I'm currently learning the kotlin programming language
  - ❤ Besides technology, I love cats and potatoes
 
 
