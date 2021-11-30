@@ -7,7 +7,7 @@
  - 👩🏽‍💻 Junior Web Developer
  - 👩🏽‍🎓 Computer Scientist graduated by [IFCE](https://ifce.edu.br/)
  - 🔭 I'm currently working at [Locabox](https://locabox.com.br/)
- - ❤ Besides technology, I love cats and potatoes
+ - ❤ Besides technology, I love dogs, cats and potatoes
 
 
 <br>
