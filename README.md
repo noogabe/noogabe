@@ -13,7 +13,7 @@
 <br>
 
 <h3 align="left">
-    <a>⚙️&nbspGithub Analytics</a>
+    <a>⚙️ Github Analytics</a>
 </h3>
  
 <div style="display: inline_block">
@@ -25,7 +25,7 @@
 <br>
   
 <h3 align="left">
-    <a>🛠&nbspTech Stack</a>
+    <a>🛠 Tech Stack</a>
 </h3>
   
 <div style="display: inline_block">
@@ -49,7 +49,7 @@
  
  
 <h3 align="left">
-    <a>✉&nbspContact with me</a>
+    <a>✉ Contact with me</a>
 </h3>
   
 <div style="display: inline_block">
@@ -62,7 +62,7 @@
 
  
 <h3 align="left">
-    <a>👩🏽‍💻&nbspMy Contributions</a>
+    <a>👩🏽‍💻 My Contributions</a>
 </h3>
 
 <p align="left"><img src="https://github.com/GabrieleAlmeida/GabrieleAlmeida/blob/output/github-contribution-grid-snake.svg" alt="Profile view counter"/></p>
