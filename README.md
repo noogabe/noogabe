@@ -60,9 +60,7 @@
  <a href="mailto:naogabe@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href = "https://open.spotify.com/user/12158162993" target="_blank"><img src="https://img.shields.io/badge/-Spotify-%23333?style=for-the-badge&logo=spotify&logoColor=green"></a>
 </div><br>
- 
- 
- 
+
  <!--
 <h3 align="left">
   <a>👩🏽‍💻&nbspMy Contributions</a>
