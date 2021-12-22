@@ -62,7 +62,7 @@
 
  
 <h3 align="left">
-    <a>👩🏽‍💻 My Contributions</a>
+    <a>💻 My Contributions</a>
 </h3>
 
 <p align="left"><img src="https://github.com/GabrieleAlmeida/GabrieleAlmeida/blob/output/github-contribution-grid-snake.svg" alt="Profile view counter"/></p>
