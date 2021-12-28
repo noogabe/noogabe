@@ -9,7 +9,6 @@
  - 🔭 I'm currently working at [Locabox](https://locabox.com.br/)
  - ❤ Besides technology, I love dogs, cats and potatoes
 
-
 <br>
 
 <h3 align="left">
