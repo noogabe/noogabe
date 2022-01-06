@@ -66,7 +66,8 @@
 
 <p align="left"><img src="https://github.com/GabrieleAlmeida/GabrieleAlmeida/blob/output/github-contribution-grid-snake.svg" alt="Profile view counter"/></p>
 
- <!-- <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=GabrieleAlmeida&bg_color=141321&hide_border=true&color=fe428e&line=a9fef7&point=fe428e"/>-->
+
+ <!--<img height="300em" src="https://activity-graph.herokuapp.com/graph?username=GabrieleAlmeida&bg_color=141321&hide_border=true&color=fe428e&line=a9fef7&point=fe428e"/>-->
 
  
   
