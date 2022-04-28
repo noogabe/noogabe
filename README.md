@@ -26,12 +26,14 @@
   </a>
 </div>
 <br>
+
+<img align="right" alt="Octocat" title="Octocat" width="25%" src="https://github.com/GabrieleAlmeida/GabrieleAlmeida/blob/main/octocat.png"/>
   
 <h2 align="left">
     <a>🛠 Tech Stack</a>
 </h2>
 
-  Languages
+Languages
 <div style="display: inline_block">
  <a href="https://github.com/GabrieleAlmeida">
   <img align="center" alt="HTML" title="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
@@ -41,9 +43,8 @@
  </a>
 </div>
 <br>
- 
    Frameworks and Databases
- <div style="display: inline_block">
+<div style="display: inline_block">
   <a href="https://github.com/GabrieleAlmeida">
     <img align="center" alt="Boostrap" title="Boostrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img align="center" alt="Laravel" title="Laravel" src="https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -52,16 +53,15 @@
  </a> 
 </div>
 <br>    
- 
    Other tools
- <div style="display: inline_block">
+<div style="display: inline_block">
   <a href="https://github.com/GabrieleAlmeida">
     <img align="center" alt="Xampp" title="Xampp" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
     <img align="center" alt="Postman" title="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
     <img align="center" alt="VsCode" title="VsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   </a>
  </div>
- 
+
  <br>
 
  
