@@ -52,6 +52,7 @@ Languages
     <img align="center" alt="Mysql" title="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
  </a> 
 </div>
+
 <br>    
    Other tools
 <div style="display: inline_block">
