@@ -1,4 +1,4 @@
-<h1 align="left">Hey you <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Gabriele Almeida </h1>
+<h1 align="left">Hey you, I'm Gabriele Almeida </h1>
 
 <a href="https://github.com/GabrieleAlmeida">
     <p align="left"><img src="https://komarev.com/ghpvc/?username=GabrieleAlmeida&style=flat-square&color=blueviolet" alt="Profile view counter"/></p>
