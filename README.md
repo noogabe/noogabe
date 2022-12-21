@@ -1,7 +1,7 @@
 <h1 align="left">Hey you, I'm Gabriele Almeida </h1>
 
 <a href="https://github.com/GabrieleAlmeida">
-    <p align="left"><img src="https://komarev.com/ghpvc/?username=GabrieleAlmeida&style=flat-square&color=ff69b4" alt="Profile view counter"/></p>
+    <p align="left"><img src="https://komarev.com/ghpvc/?username=GabrieleAlmeida&style=flat-square&color=green" alt="Profile view counter"/></p>
 </a>
 
  - 👩🏽‍💻 Junior Web Developer
@@ -20,8 +20,8 @@
  
 <div style="display: inline_block">
   <a href="https://github.com/GabrieleAlmeida">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrieleAlmeida&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleAlmeida&layout=compact&langs_count=7&theme=radical"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrieleAlmeida&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieleAlmeida&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 <br>
