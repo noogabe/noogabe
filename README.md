@@ -4,7 +4,7 @@
     <p align="left"><img src="https://komarev.com/ghpvc/?username=GabrieleAlmeida&style=flat-square&color=green" alt="Profile view counter"/></p>
 </a>
 
- - 👩🏽‍💻 Junior Web Developer
+ - 👩🏽‍💻 Junior Back-end Developer
  - 👩🏽‍🎓 Computer Scientist graduated by [IFCE](https://ifce.edu.br/)
  - 📺 I'm currently working at [Sistema Verdes Mares](https://redeglobo.globo.com/tvverdesmares/)
  - ❤ Besides technology, I love cats, dogs and potatoes
