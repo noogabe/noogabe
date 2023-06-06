@@ -24,7 +24,7 @@
 </div>
 <br>
 
-<!--<img align="right" alt="Octocat" title="Octocat" width="25%" src="https://github.com/noogabe/noogabe/blob/main/octocat.png"/>-->
+<img align="right" alt="Octocat" title="Octocat" width="25%" src="https://github.com/noogabe/noogabe/blob/main/octocat.png"/>
   
 <h2 align="left">
     <a>🛠 Tech Stack</a>
@@ -58,9 +58,9 @@ Other tools
 <h2 align="left">
     <a>💻 My Contributions</a>
 </h2>
-
 <p align="left"><img src="https://github.com/noogabe/noogabe/blob/output/github-contribution-grid-snake.svg" alt="Profile view counter"/></p>
 -->
+
 
 
 
