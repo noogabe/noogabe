@@ -1,21 +1,16 @@
 <h1 align="left">Hey you, I'm Gabriele Almeida </h1>
 <a href="https://github.com/noogabe">
-    <p align="left"><img src="https://komarev.com/ghpvc/?username=noogabe&style=flat-square&color=green" alt="Profile view counter"/></p>
+    <p align="left"><img src="https://komarev.com/ghpvc/?username=noogabe&style=flat-square&color=blueviolet" alt="Profile view counter"/></p>
 </a>
 
  - 👩🏽‍💻 Jr Back-end Developer
  - 👩🏽‍🎓 Computer Scientist graduated by [IFCE](https://ifce.edu.br/)
  - 📺 I'm currently working at [Sistema Verdes Mares](https://redeglobo.globo.com/tvverdesmares/)
  - ❤ Besides technology, I love cats, dogs and potatoes
- 
- <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/noogabe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href="mailto:naogabe@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
 <div style="display: inline_block">
   <a href="https://github.com/noogabe">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=noogabe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noogabe&layout=compact&langs_count=7&theme=dark"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=noogabe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noogabe&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 <h2 align="left">
