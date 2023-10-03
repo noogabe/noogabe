@@ -6,7 +6,7 @@
  - 👩🏽‍💻 Jr Back-end Developer
  - 👩🏽‍🎓 Computer Scientist graduated by [IFCE](https://ifce.edu.br/)
  - 📺 I'm currently working at [Sistema Verdes Mares](https://redeglobo.globo.com/tvverdesmares/)
- - ❤ Besides technology, I love cats, dogs and potatoes
+ - 💜 Besides technology, I love cats, dogs and potatoes
 <div style="display: inline_block">
   <a href="https://github.com/noogabe">
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=noogabe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
