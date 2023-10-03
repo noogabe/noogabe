@@ -7,9 +7,10 @@
  - 👩🏽‍🎓 Computer Scientist graduated by [IFCE](https://ifce.edu.br/)
  - 📺 I'm currently working at [Sistema Verdes Mares](https://redeglobo.globo.com/tvverdesmares/)
  - 💜 Besides technology, I love cats, dogs and potatoes
-
-![noogabe's Stats](https://github-readme-stats.vercel.app/api?username=noogabe&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![noogabe's Streak](https://github-readme-streak-stats.herokuapp.com/?user=noogabe&theme=dracula&hide_border=true)
+<div style="display: inline_block">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=noogabe&theme=dracula&show_icons=true&hide_border=true&count_private=true">
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=noogabe&theme=dracula&hide_border=true">
+</div>
 
 <h2 align="left">
     <a>🛠 Tech Stack</a>
