@@ -3,7 +3,7 @@
     <p align="left"><img src="https://komarev.com/ghpvc/?username=noogabe&style=flat-square&color=blueviolet" alt="Profile view counter"/></p>
 </a>
 
- - 👩🏽‍💻 Jr Back-end Developer
+ - 👩🏽‍💻 Back-end Developer
  - 👩🏽‍🎓 Computer Scientist graduated by [IFCE](https://ifce.edu.br/)
  - 📺 I'm currently working at [Sistema Verdes Mares](https://redeglobo.globo.com/tvverdesmares/)
  - 💜 Besides technology, I love cats, dogs and potatoes
