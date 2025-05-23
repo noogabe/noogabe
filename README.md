@@ -6,7 +6,7 @@
  - 👩🏽‍💻 Back-end Developer
  - 👩🏽‍🎓 Computer Scientist graduated by [IFCE](https://ifce.edu.br/)
  - 📺 I'm currently working at [Sistema Verdes Mares](https://www.geq.com.br/negocios/sistema-verdes-mares/)
- - 💜 Besides technology, I love cats, dogs and potatoes
+ - 💜 Besides technology, I love cats, dogs and MJ songs 👑🕺🪩
 <div style="display: inline_block">
     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=noogabe&theme=dracula&hide_border=true">
 </div>
