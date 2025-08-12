@@ -16,7 +16,8 @@
      <div>
          <img align="center" alt="NodeJS" title="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
          <img align="center" alt="Typescript" title="TS" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-        <img align="center" alt="PHP" title="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+         <img align="center" alt="Python" title="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+         <img align="center" alt="PHP" title="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
          <img align="center" alt="Laravel" title="Laravel" src="https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=white"/>
          <img align="center" alt="NestJS" title="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
          <img align="center" alt="Mysql" title="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
