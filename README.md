@@ -27,10 +27,6 @@
  </a>
 </div>
 
-## Contributions
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/noogabe/noogabe/output/github-contribution-grid-snake.svg)
-
 [![An image of @noogabe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/noogabe)](https://holopin.io/@noogabe)
 
 
